@@ -1,1 +1,1 @@
-Bayesian skill estimation for professional StarCraft matches using a Bradley-Terry latent variable model. Compares MCMC (NUTS), SVI, and Gibbs Sampling for inferring player skill posteriors and predicting match outcomes.
+Bayesian skill estimation for professional StarCraft matches using a Bradley-Terry latent variable model. Compares MCMC (NUTS) and SVI for inferring player skill posteriors and predicting match outcomes.
